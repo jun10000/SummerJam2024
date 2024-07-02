@@ -1,11 +1,23 @@
-# SummerJam2024
+# Mirror Game [SummerJam2024]
 
-Developed with Unreal Engine 5
+![GameScreen](Image_Game_small.png)
+
+This is an exploratory game.  
+Check all tricks and lead to the ending.  
+Please note that there is more than one ending.  
+
+## How to play
+
+- W/A/S/D: Move
+- Mouse move: Change the camera angle
+- Click: Check the item
+- Escape: Exit the game
 
 ## Credits
 
 ### Development Tools
 - [Unreal Engine](https://www.unrealengine.com/en-US)
+- [Audacity](https://www.audacityteam.org/)
 
 ### Unreal Engine Assets
 - [Mannequins Pack](https://www.unrealengine.com/marketplace/en-US/product/mannequins-asset-pack) by
@@ -28,3 +40,7 @@ Developed with Unreal Engine 5
   [G-MIYA](https://dova-s.jp/_contents/author/profile083.html)
 - [Male Extreme Scream](https://pixabay.com/ja/sound-effects/male-extreme-scream-123078/) by
   [UNIVERSFIELD](https://pixabay.com/ja/users/universfield-28281460/)
+
+### Images
+- [View, mirror Icon](https://icon-icons.com/icon/view-mirror/180913) by
+  [Gnome](https://icon-icons.com/users/4mOD44hHnmwuE6mpnDwZ1/icon-sets/)

@@ -18,6 +18,7 @@ Please note that there is more than one ending.
 ### Development Tools
 - [Unreal Engine](https://www.unrealengine.com/en-US)
 - [Audacity](https://www.audacityteam.org/)
+- [GIMP](https://www.gimp.org/)
 
 ### Unreal Engine Assets
 - [Mannequins Pack](https://www.unrealengine.com/marketplace/en-US/product/mannequins-asset-pack) by

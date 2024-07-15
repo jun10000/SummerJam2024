@@ -4,7 +4,7 @@
 
 This is an exploratory game.  
 Check all tricks and lead to the ending.  
-Please note that there is more than one ending.  
+This game currently contains three endings.  
 
 ## How to play
 
